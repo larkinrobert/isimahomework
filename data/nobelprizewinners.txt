@@ -1,0 +1,385 @@
+Abhijit Banerjee, born in India, Economics, 2019
+Esther Duflo, born in France, Economics, 2019
+Michael Kremer, Economics, 2019
+John B. Goodenough, born in Germany, Chemistry, 2019
+M. Stanley Whittingham, born in United Kingdom, Chemistry, 2019
+Jim Peebles, born in Canada, Physics, 2019
+William Kaelin Jr., Physiology or Medicine, 2019
+Gregg L. Semenza, Physiology or Medicine, 2019
+Paul Romer, Economics, 2018
+William Nordhaus, Economics, 2018
+George P. Smith, Chemistry, 2018
+Frances Arnold, Chemistry, 2018
+Arthur Ashkin, Physics, 2018
+James Allison, Physiology or Medicine, 2018
+Richard H. Thaler, Economics, 2017
+Joachim Frank, born in Germany, Chemistry, 2017
+Rainer Weiss, born in Germany, Physics, 2017
+Kip Thorne, Physics, 2017
+Barry Barish, Physics, 2017
+Michael W. Young, Physiology or Medicine, 2017
+Michael Rosbash, Physiology or Medicine, 2017
+Jeffrey C. Hall, Physiology or Medicine, 2017
+Bob Dylan, Literature, 2016
+Oliver Hart, born in United Kingdom, Economics, 2016
+Fraser Stoddart, born in United Kingdom, Chemistry, 2016
+F. Duncan M. Haldane, born in United Kingdom, Physics, 2016
+John M. Kosterlitz, born in United Kingdom, Physics, 2016
+Angus Deaton, born in United Kingdom, Economics, 2015
+Paul L. Modrich, Chemistry, 2015
+Aziz Sancar, born in Turkey, Chemistry, 2015
+William C. Campbell, born in Ireland, Physiology or Medicine, 2015
+William E. Moerner, Chemistry, 2014
+Eric Betzig, Chemistry, 2014
+Shuji Nakamura, born in Japan, Physics, 2014
+John O'Keefe*, Physiology or Medicine, 2014
+Robert J. Shiller, Economics, 2013
+Lars Peter Hansen, Economics, 2013
+Eugene F. Fama, Economics, 2013
+Arieh Warshel, born in Israel, Chemistry, 2013
+Michael Levitt, born in South Africa, Chemistry, 2013
+Martin Karplus, born in Austria, Chemistry, 2013
+Randy Schekman, Physiology or Medicine, 2013
+Thomas C. Südhof, born in Germany, Physiology or Medicine, 2013
+James Rothman, Physiology or Medicine, 2013
+Alvin E. Roth, Economics, 2012
+Lloyd S. Shapley, Economics, 2012
+Brian K. Kobilka, Chemistry, 2012
+Robert J. Lefkowitz, Chemistry, 2012
+David J. Wineland, Physics, 2012
+Christopher A. Sims, Economics, 2011
+Thomas J. Sargent, Economics, 2011
+Saul Perlmutter, Physics, 2011
+Brian P. Schmidt, Physics, 2011
+Adam G. Riess, Physics, 2011
+Ralph M. Steinman, born in Canada, Physiology or Medicine, 2011
+Bruce Beutler, Physiology or Medicine, 2011
+Peter A. Diamond, Economics, 2010
+Dale T. Mortensen, Economics, 2010
+Ei-ichi Negishi, Japanese citizenship, Chemistry, 2010
+Richard F. Heck, Chemistry, 2010
+Elinor Ostrom, Economics, 2009
+Oliver Eaton Williamson, Economics, 2009
+Barack H. Obama, Peace, 2009
+Venkatraman Ramakrishnan, born in India, Chemistry, 2009
+Thomas A. Steitz, Chemistry, 2009
+Willard S. Boyle, born in Canada, Physics, 2009
+Charles K. Kao, born in China, Physics, 2009
+George E. Smith, Physics, 2009
+Elizabeth Blackburn, born in Australia, Physiology or Medicine, 2009
+Carol W. Greider, Physiology or Medicine, 2009
+Jack W. Szostak, born in United Kingdom, Physiology or Medicine, 2009
+Paul Krugman, Economics, 2008
+Roger Yonchien Tsien, Chemistry, 2008
+Martin Chalfie, Chemistry, 2008
+Osamu Shimomura, Japanese citizenship , Chemistry, 2008
+Yoichiro Nambu, born in Japan, Physics, 2008
+Leonid Hurwicz, born in Russia, Economics, 2007
+Eric S. Maskin, Economics, 2007
+Roger B. Myerson, Economics, 2007
+Al Gore, Peace, 2007
+Mario R. Capecchi, born in Italy, Physiology or Medicine, 2007
+Oliver Smithies, born in United Kingdom, Physiology or Medicine, 2007
+Roger D. Kornberg, Chemistry, 2006
+John C. Mather, Physics, 2006
+Edmund S. Phelps, Economics, 2006
+George F. Smoot, Physics, 2006
+Andrew Z. Fire, Physiology or Medicine, 2006
+Craig C. Mello, Physiology or Medicine, 2006
+Robert Aumann*, as an Israeli citizen, Economics, 2005
+Robert H. Grubbs, Chemistry, 2005
+Richard R. Schrock, Chemistry, 2005
+Thomas Schelling, Economics, 2005
+John L. Hall, Physics, 2005
+Roy J. Glauber, Physics, 2005
+Irwin Rose, Chemistry, 2004
+Edward C. Prescott, Economics, 2004
+David J. Gross, Physics, 2004
+H. David Politzer, Physics, 2004
+Frank Wilczek, Physics, 2004
+Richard Axel, Physiology or Medicine, 2004
+Linda B. Buck, Physiology or Medicine, 2004
+Peter Agre, Chemistry, 2003
+Roderick MacKinnon, Chemistry, 2003
+Robert F. Engle, Economics, 2003
+Anthony J. Leggett, born in United Kingdom, Physics, 2003
+Paul C. Lauterbur, Physiology or Medicine, 2003
+Alexei Alexeyevich Abrikosov, born in Russia, Physics, 2003
+Daniel Kahneman*, born in Israel, Economics, 2002
+Vernon L. Smith, Economics, 2002
+Jimmy Carter, Peace, 2002
+John Bennett Fenn, Chemistry, 2002
+Raymond Davis Jr., Physics, 2002
+Riccardo Giacconi, born in Italy, Physics, 2002
+Sydney Brenner, born in South Africa, Physiology or Medicine, 2002
+H. Robert Horvitz, Physiology or Medicine, 2002
+William S. Knowles, Chemistry, 2001
+K. Barry Sharpless, Chemistry, 2001
+Joseph E. Stiglitz, Economics, 2001
+George A. Akerlof, Economics, 2001
+A. Michael Spence, Economics, 2001
+Eric A. Cornell, Physics, 2001
+Carl E. Wieman, Physics, 2001
+Leland H. Hartwell, Physiology or Medicine, 2001
+Alan Heeger, Chemistry, 2000
+Alan MacDiarmid, born in New Zealand, Chemistry, 2000
+James J. Heckman, Economics, 2000
+Daniel L. McFadden, Economics, 2000
+Jack Kilby, Physics, 2000
+Paul Greengard, Physiology or Medicine, 2000
+Eric Kandel, born in Austria, Physiology or Medicine, 2000
+Ahmed H. Zewail, born in Egypt, Chemistry, 1999
+Günter Blobel, born in then Germany, now Poland, Physiology or Medicine, 1999
+Walter Kohn, born in Austria, Chemistry, 1998
+Horst Ludwig Störmer, born in Germany, Physics, 1998
+Robert B. Laughlin, Physics, 1998
+Daniel C. Tsui, born in China, Physics, 1998
+Robert F. Furchgott, Physiology or Medicine, 1998
+Louis J. Ignarro, Physiology or Medicine, 1998
+Ferid Murad, Physiology or Medicine, 1998
+Paul D. Boyer, Chemistry, 1997
+Robert C. Merton, Economics, 1997
+Myron Scholes, born in Canada, Economics, 1997
+Jody Williams, Peace, 1997
+Steven Chu, Physics, 1997
+William D. Phillips, Physics, 1997
+Stanley B. Prusiner, Physiology or Medicine, 1997
+Richard E. Smalley, Chemistry, 1996
+Robert F. Curl Jr., Chemistry, 1996
+William Vickrey, born in Canada, Economics, 1996
+David M. Lee, Physics, 1996
+Douglas D. Osheroff, Physics, 1996
+Robert C. Richardson, Physics, 1996
+Mario J. Molina, born in Mexico, Chemistry, 1995
+F. Sherwood Rowland, Chemistry, 1995
+Robert Lucas, Jr., Economics, 1995
+Martin L. Perl, Physics, 1995
+Frederick Reines, Physics, 1995
+Edward B. Lewis, Physiology or Medicine, 1995
+Eric F. Wieschaus, Physiology or Medicine, 1995
+George Andrew Olah, born in Hungary, Chemistry, 1994
+John Harsanyi, born in Hungary, Economics, 1994
+John Forbes Nash, Economics, 1994
+Clifford G. Shull, Physics, 1994
+Alfred G. Gilman, Physiology or Medicine, 1994
+Martin Rodbell, Physiology or Medicine, 1994
+Kary B. Mullis, Chemistry, 1993
+Robert W. Fogel, Economics, 1993
+Douglass C. North, Economics, 1993
+Toni Morrison, Literature, 1993
+Russell A. Hulse, Physics, 1993
+Joseph H. Taylor Jr., Physics, 1993
+Phillip A. Sharp, Physiology or Medicine, 1993
+Rudolph A. Marcus, born in Canada, Chemistry, 1992
+Gary S. Becker, Economics, 1992
+Edmond H. Fischer, born in China, Physiology or Medicine, 1992
+Edwin G. Krebs, Physiology or Medicine, 1992
+Ronald Coase, born in the United Kingdom, Economics, 1991
+Elias James Corey, Chemistry, 1990
+Merton H. Miller, Economics, 1990
+William F. Sharpe, Economics, 1990
+Harry M. Markowitz, Economics, 1990
+Jerome I. Friedman, Physics, 1990
+Henry W. Kendall, Physics, 1990
+Joseph E. Murray, Physiology or Medicine, 1990
+E. Donnall Thomas, Physiology or Medicine, 1990
+Sidney Altman, born in Canada, Chemistry, 1989
+Thomas R. Cech, Chemistry, 1989
+Hans G. Dehmelt, born in Germany, Physics, 1989
+Norman F. Ramsey, Physics, 1989
+J. Michael Bishop, Physiology or Medicine, 1989
+Harold E. Varmus, Physiology or Medicine, 1989
+Leon M. Lederman, Physics, 1988
+Melvin Schwartz, Physics, 1988
+Jack Steinberger, born in Germany, Physics, 1988
+Gertrude B. Elion, Physiology or Medicine, 1988
+George H. Hitchings, Physiology or Medicine, 1988
+Charles J. Pedersen, born in Korea, Chemistry, 1987
+Donald J. Cram, Chemistry, 1987
+Robert M. Solow, Economics, 1987
+Joseph Brodsky, born in Russia, Literature, 1987
+Dudley R. Herschbach, Chemistry, 1986
+Yuan T. Lee, born in Taiwan, Chemistry, 1986
+James M. Buchanan, Economics, 1986
+Elie Wiesel, born in Romania, Peace, 1986
+Stanley Cohen, Physiology or Medicine, 1986
+Rita Levi-Montalcini, born in Italy, Physiology or Medicine, 1986
+Jerome Karle, Chemistry, 1985
+Herbert A. Hauptman, Chemistry, 1985
+Franco Modigliani, born in Italy, Economics, 1985
+Michael S. Brown, Physiology or Medicine, 1985
+Joseph L. Goldstein, Physiology or Medicine, 1985
+Bruce Merrifield, Chemistry, 1984
+Henry Taube, born in Canada, Chemistry, 1983
+Gérard Debreu, born in France, Economics, 1983
+William A. Fowler, Physics, 1983
+Subrahmanyan Chandrasekhar, born in India, Physics, 1983
+Barbara McClintock, Physiology or Medicine, 1983
+George J. Stigler, Economics, 1982
+Kenneth G. Wilson, Physics, 1982
+Roald Hoffmann, born in then Poland, now Ukraine, Chemistry, 1981
+James Tobin, Economics, 1981
+Nicolaas Bloembergen, born in the Netherlands, Physics, 1981
+Arthur L. Schawlow, Physics, 1981
+David H. Hubel, born in Canada, Physiology or Medicine, 1981
+Roger W. Sperry, Physiology or Medicine, 1981
+Walter Gilbert, Chemistry, 1980
+Paul Berg, Chemistry, 1980
+Lawrence R. Klein, Economics, 1980
+Czesław Miłosz*, born in then Russian Empire, now Lithuania, Literature, 1980
+James Cronin, Physics, 1980
+Val Fitch, Physics, 1980
+Baruj Benacerraf, born in Venezuela, Physiology or Medicine, 1980
+George D. Snell, Physiology or Medicine, 1980
+Herbert C. Brown, born in the United Kingdom, Chemistry, 1979
+Theodore Schultz, Economics, 1979
+Steven Weinberg, Physics, 1979
+Sheldon Glashow, Physics, 1979
+Allan M. Cormack, born in South Africa, Physiology or Medicine, 1979
+Herbert A. Simon, Economics, 1978
+Isaac Bashevis Singer, born in then Russian Empire, now Poland, Literature, 1978
+Robert Woodrow Wilson, Physics, 1978
+Arno Penzias, born in Germany, Physics, 1978
+Hamilton O. Smith, Physiology or Medicine, 1978
+Daniel Nathans, Physiology or Medicine, 1978
+Philip Anderson, Physics, 1977
+John H. van Vleck, Physics, 1977
+Roger Guillemin, born in France, Physiology or Medicine, 1977
+Andrew Schally, born in then Poland, now Lithuania, Physiology or Medicine, 1977
+Rosalyn Yalow, Physiology or Medicine, 1977
+William Lipscomb, Chemistry, 1976
+Milton Friedman, Economics, 1976
+Saul Bellow, born in Canada, Literature, 1976
+Burton Richter, Physics, 1976
+Samuel C. C. Ting, Physics, 1976
+Baruch S. Blumberg, Physiology or Medicine, 1976
+Daniel Carleton Gajdusek, Physiology or Medicine, 1976
+Tjalling C. Koopmans, born in the Netherlands, Economics, 1975
+Ben Roy Mottelson*, Physics, 1975
+James Rainwater, Physics, 1975
+David Baltimore, Physiology or Medicine, 1975
+Renato Dulbecco, born in Italy, Physiology or Medicine, 1975
+Howard Martin Temin, Physiology or Medicine, 1975
+Paul J. Flory, Chemistry, 1974
+George E. Palade, born in Romania, Physiology or Medicine, 1974
+Wassily Leontief, born in Germany, Economics, 1973
+Henry Kissinger, born in Germany, Peace, 1973
+Ivar Giaever, Norway, Physics, 1973
+Christian Anfinsen, Chemistry, 1972
+Stanford Moore, Chemistry, 1972
+William H. Stein, Chemistry, 1972
+Kenneth J. Arrow, Economics, 1972
+John Bardeen, Physics, 1972
+Leon N. Cooper, Physics, 1972
+Robert Schrieffer, Physics, 1972
+Gerald Edelman, Physiology or Medicine, 1972
+Simon Kuznets, born in then Russia, now Belarus, Economics, 1971
+Earl W. Sutherland Jr., Physiology or Medicine, 1971
+Paul A. Samuelson, Economics, 1970
+Norman Borlaug, Peace, 1970
+Julius Axelrod, Physiology or Medicine, 1970
+Murray Gell-Mann, Physics, 1969
+Max Delbrück, born in Germany, Physiology or Medicine, 1969
+Alfred Hershey, Physiology or Medicine, 1969
+Salvador Luria, born in Italy, Physiology or Medicine, 1969
+Lars Onsager, born in Norway, Chemistry, 1968
+Luis Alvarez, Physics, 1968
+Robert W. Holley, Physiology or Medicine, 1968
+Har Gobind Khorana, born in India, Physiology or Medicine, 1968
+Marshall Warren Nirenberg, Physiology or Medicine, 1968
+Hans Bethe, born in then Germany, now France, Physics, 1967
+Haldan Keffer Hartline, Physiology or Medicine, 1967
+George Wald, Physiology or Medicine, 1967
+Robert S. Mulliken, Chemistry, 1966
+Charles B. Huggins, born in Canada, Physiology or Medicine, 1966
+Francis Peyton Rous, Physiology or Medicine, 1966
+Robert B. Woodward, Chemistry, 1965
+Richard P. Feynman, Physics, 1965
+Julian Schwinger, Physics, 1965
+Martin Luther King, Jr., Peace, 1964
+Charles H. Townes, Physics, 1964
+Konrad Bloch, born in then Germany, now Poland, Physiology or Medicine, 1964
+Maria Goeppert-Mayer, born in then Germany, now Poland, Physics, 1963
+Eugene Wigner, born in Hungary, Physics, 1963
+John Steinbeck, Literature, 1962
+Linus C. Pauling, Peace, 1962
+James D. Watson, Physiology or Medicine, 1962
+Melvin Calvin, Chemistry, 1961
+Robert Hofstadter, Physics, 1961
+Georg von Békésy, born in Hungary, Physiology or Medicine, 1961
+Willard F. Libby, Chemistry, 1960
+Donald A. Glaser, Physics, 1960
+Owen Chamberlain, Physics, 1959
+Emilio Segrè, born in Italy, Physics, 1959
+Arthur Kornberg, Physiology or Medicine, 1959
+Severo Ochoa, born in Spain, Physiology or Medicine, 1959
+George Beadle, Physiology or Medicine, 1958
+Joshua Lederberg, Physiology or Medicine, 1958
+Edward Tatum, Physiology or Medicine, 1958
+Chen Ning Yang, born in China, Physics, 1957
+Tsung-Dao Lee, born in China, Physics, 1957
+William B. Shockley, Physics, 1956
+John Bardeen, Physics, 1956
+Walter H. Brattain, born in China, Physics, 1956
+Dickinson W. Richards, Physiology or Medicine, 1956
+André F. Cournand, France, Physiology or Medicine, 1956
+Vincent du Vigneaud, Chemistry, 1955
+Willis E. Lamb, Physics, 1955
+Polykarp Kusch, born in Germany, Physics, 1955
+Linus C. Pauling, Chemistry, 1954
+Ernest Hemingway, Literature, 1954
+John F. Enders, Physiology or Medicine, 1954
+Frederick C. Robbins, Physiology or Medicine, 1954
+Thomas H. Weller, Physiology or Medicine, 1954
+George C. Marshall, Peace, 1953
+Fritz Albert Lipmann, born in then Germany, now Russia, Physiology or Medicine, 1953
+E. M. Purcell, Physics, 1952
+Felix Bloch, born in Switzerland, Physics, 1952
+Selman A. Waksman, born in then Russian Empire, now Ukraine, Physiology or Medicine, 1952
+Edwin M. McMillan, Chemistry, 1951
+Glenn Theodore Seaborg, Chemistry, 1951
+Ralph J. Bunche, Peace, 1950
+Philip S. Hench, Physiology or Medicine, 1950
+Edward C. Kendall, Physiology or Medicine, 1950
+William Giauque, born in Canada, Chemistry, 1949
+William Faulkner, Literature, 1949
+T. S. Eliot*, Literature, 1948
+American Friends Service Committee (The Quakers), Peace, 1947
+Carl Ferdinand Cori, born in Austria, Physiology or Medicine, 1947
+Gerty Cori, born in Austria, Physiology or Medicine, 1947
+Wendell M. Stanley, Chemistry, 1946
+James B. Sumner, Chemistry, 1946
+John H. Northrop, Chemistry, 1946
+Emily G. Balch, Peace, 1946
+John R. Mott, Peace, 1946
+Percy W. Bridgman, Physics, 1946
+Hermann J. Muller, Physiology or Medicine, 1946
+Cordell Hull, Peace, 1945
+Isidor Isaac Rabi, born in Austria, Physics, 1944
+Joseph Erlanger, Physiology or Medicine, 1944
+Herbert S. Gasser, Physiology or Medicine, 1944
+Otto Stern, born in then Germany, now Poland, Physics, 1943
+Edward A. Doisy, Physiology or Medicine, 1943
+Ernest Lawrence, Physics, 1939
+Pearl S. Buck, Literature, 1938
+Clinton Davisson, Physics, 1937
+Eugene O'Neill, Literature, 1936
+Carl Anderson, Physics, 1936
+Harold C. Urey, Chemistry, 1934
+George R. Minot, Physiology or Medicine, 1934
+William P. Murphy, Physiology or Medicine, 1934
+George H. Whipple, Physiology or Medicine, 1934
+Thomas H. Morgan, Physiology or Medicine, 1933
+Irving Langmuir, Chemistry, 1932
+Jane Addams, Peace, 1931
+Nicholas M. Butler, Peace, 1931
+Sinclair Lewis, Literature, 1930
+Frank B. Kellogg, Peace, 1929
+Arthur H. Compton, Physics, 1927
+Charles G. Dawes, Peace, 1925
+Robert A. Millikan, Physics, 1923
+Woodrow Wilson, Peace, 1919
+Theodore W. Richards, Chemistry, 1914
+Elihu Root, Peace, 1912
+Albert A. Michelson, born in then Germany, now Poland, Physics, 1907
+Theodore Roosevelt, Peace, 1906

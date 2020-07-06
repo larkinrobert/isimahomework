@@ -1,0 +1,385 @@
+Abhijit Banerjee
+Esther Duflo
+Michael Kremer
+John B. Goodenough
+M. Stanley Whittingham
+Jim Peebles
+William Kaelin Jr.
+Gregg L. Semenza
+Paul Romer
+William Nordhaus
+George P. Smith
+Frances Arnold
+Arthur Ashkin
+James Allison
+Richard H. Thaler
+Joachim Frank
+Rainer Weiss
+Kip Thorne
+Barry Barish
+Michael W. Young
+Michael Rosbash
+Jeffrey C. Hall
+Bob Dylan
+Oliver Hart
+Fraser Stoddart
+F. Duncan M. Haldane
+John M. Kosterlitz
+Angus Deaton
+Paul L. Modrich
+Aziz Sancar
+William C. Campbell
+William E. Moerner
+Eric Betzig
+Shuji Nakamura
+John O'Keefe*
+Robert J. Shiller
+Lars Peter Hansen
+Eugene F. Fama
+Arieh Warshel
+Michael Levitt
+Martin Karplus
+Randy Schekman
+Thomas C. Südhof
+James Rothman
+Alvin E. Roth
+Lloyd S. Shapley
+Brian K. Kobilka
+Robert J. Lefkowitz
+David J. Wineland
+Christopher A. Sims
+Thomas J. Sargent
+Saul Perlmutter
+Brian P. Schmidt
+Adam G. Riess
+Ralph M. Steinman
+Bruce Beutler
+Peter A. Diamond
+Dale T. Mortensen
+Ei-ichi Negishi
+Richard F. Heck
+Elinor Ostrom
+Oliver Eaton Williamson
+Barack H. Obama
+Venkatraman Ramakrishnan
+Thomas A. Steitz
+Willard S. Boyle
+Charles K. Kao
+George E. Smith
+Elizabeth Blackburn
+Carol W. Greider
+Jack W. Szostak
+Paul Krugman
+Roger Yonchien Tsien
+Martin Chalfie
+Osamu Shimomura
+Yoichiro Nambu
+Leonid Hurwicz
+Eric S. Maskin
+Roger B. Myerson
+Al Gore
+Mario R. Capecchi
+Oliver Smithies
+Roger D. Kornberg
+John C. Mather
+Edmund S. Phelps
+George F. Smoot
+Andrew Z. Fire
+Craig C. Mello
+Robert Aumann*
+Robert H. Grubbs
+Richard R. Schrock
+Thomas Schelling
+John L. Hall
+Roy J. Glauber
+Irwin Rose
+Edward C. Prescott
+David J. Gross
+H. David Politzer
+Frank Wilczek
+Richard Axel
+Linda B. Buck
+Peter Agre
+Roderick MacKinnon
+Robert F. Engle
+Anthony J. Leggett
+Paul C. Lauterbur
+Alexei Alexeyevich Abrikosov
+Daniel Kahneman*
+Vernon L. Smith
+Jimmy Carter
+John Bennett Fenn
+Raymond Davis Jr.
+Riccardo Giacconi
+Sydney Brenner
+H. Robert Horvitz
+William S. Knowles
+K. Barry Sharpless
+Joseph E. Stiglitz
+George A. Akerlof
+A. Michael Spence
+Eric A. Cornell
+Carl E. Wieman
+Leland H. Hartwell
+Alan Heeger
+Alan MacDiarmid
+James J. Heckman
+Daniel L. McFadden
+Jack Kilby
+Paul Greengard
+Eric Kandel
+Ahmed H. Zewail
+Günter Blobel
+Walter Kohn
+Horst Ludwig Störmer
+Robert B. Laughlin
+Daniel C. Tsui
+Robert F. Furchgott
+Louis J. Ignarro
+Ferid Murad
+Paul D. Boyer
+Robert C. Merton
+Myron Scholes
+Jody Williams
+Steven Chu
+William D. Phillips
+Stanley B. Prusiner
+Richard E. Smalley
+Robert F. Curl Jr.
+William Vickrey
+David M. Lee
+Douglas D. Osheroff
+Robert C. Richardson
+Mario J. Molina
+F. Sherwood Rowland
+Robert Lucas
+Martin L. Perl
+Frederick Reines
+Edward B. Lewis
+Eric F. Wieschaus
+George Andrew Olah
+John Harsanyi
+John Forbes Nash
+Clifford G. Shull
+Alfred G. Gilman
+Martin Rodbell
+Kary B. Mullis
+Robert W. Fogel
+Douglass C. North
+Toni Morrison
+Russell A. Hulse
+Joseph H. Taylor Jr.
+Phillip A. Sharp
+Rudolph A. Marcus
+Gary S. Becker
+Edmond H. Fischer
+Edwin G. Krebs
+Ronald Coase
+Elias James Corey
+Merton H. Miller
+William F. Sharpe
+Harry M. Markowitz
+Jerome I. Friedman
+Henry W. Kendall
+Joseph E. Murray
+E. Donnall Thomas
+Sidney Altman
+Thomas R. Cech
+Hans G. Dehmelt
+Norman F. Ramsey
+J. Michael Bishop
+Harold E. Varmus
+Leon M. Lederman
+Melvin Schwartz
+Jack Steinberger
+Gertrude B. Elion
+George H. Hitchings
+Charles J. Pedersen
+Donald J. Cram
+Robert M. Solow
+Joseph Brodsky
+Dudley R. Herschbach
+Yuan T. Lee
+James M. Buchanan
+Elie Wiesel
+Stanley Cohen
+Rita Levi-Montalcini
+Jerome Karle
+Herbert A. Hauptman
+Franco Modigliani
+Michael S. Brown
+Joseph L. Goldstein
+Bruce Merrifield
+Henry Taube
+Gérard Debreu
+William A. Fowler
+Subrahmanyan Chandrasekhar
+Barbara McClintock
+George J. Stigler
+Kenneth G. Wilson
+Roald Hoffmann
+James Tobin
+Nicolaas Bloembergen
+Arthur L. Schawlow
+David H. Hubel
+Roger W. Sperry
+Walter Gilbert
+Paul Berg
+Lawrence R. Klein
+Czesław Miłosz*
+James Cronin
+Val Fitch
+Baruj Benacerraf
+George D. Snell
+Herbert C. Brown
+Theodore Schultz
+Steven Weinberg
+Sheldon Glashow
+Allan M. Cormack
+Herbert A. Simon
+Isaac Bashevis Singer
+Robert Woodrow Wilson
+Arno Penzias
+Hamilton O. Smith
+Daniel Nathans
+Philip Anderson
+John H. van Vleck
+Roger Guillemin
+Andrew Schally
+Rosalyn Yalow
+William Lipscomb
+Milton Friedman
+Saul Bellow
+Burton Richter
+Samuel C. C. Ting
+Baruch S. Blumberg
+Daniel Carleton Gajdusek
+Tjalling C. Koopmans
+Ben Roy Mottelson*
+James Rainwater
+David Baltimore
+Renato Dulbecco
+Howard Martin Temin
+Paul J. Flory
+George E. Palade
+Wassily Leontief
+Henry Kissinger
+Ivar Giaever
+Christian Anfinsen
+Stanford Moore
+William H. Stein
+Kenneth J. Arrow
+John Bardeen
+Leon N. Cooper
+Robert Schrieffer
+Gerald Edelman
+Simon Kuznets
+Earl W. Sutherland Jr.
+Paul A. Samuelson
+Norman Borlaug
+Julius Axelrod
+Murray Gell-Mann
+Max Delbrück
+Alfred Hershey
+Salvador Luria
+Lars Onsager
+Luis Alvarez
+Robert W. Holley
+Har Gobind Khorana
+Marshall Warren Nirenberg
+Hans Bethe
+Haldan Keffer Hartline
+George Wald
+Robert S. Mulliken
+Charles B. Huggins
+Francis Peyton Rous
+Robert B. Woodward
+Richard P. Feynman
+Julian Schwinger
+Martin Luther King
+Charles H. Townes
+Konrad Bloch
+Maria Goeppert-Mayer
+Eugene Wigner
+John Steinbeck
+Linus C. Pauling
+James D. Watson
+Melvin Calvin
+Robert Hofstadter
+Georg von Békésy
+Willard F. Libby
+Donald A. Glaser
+Owen Chamberlain
+Emilio Segrè
+Arthur Kornberg
+Severo Ochoa
+George Beadle
+Joshua Lederberg
+Edward Tatum
+Chen Ning Yang
+Tsung-Dao Lee
+William B. Shockley
+John Bardeen
+Walter H. Brattain
+Dickinson W. Richards
+André F. Cournand
+Vincent du Vigneaud
+Willis E. Lamb
+Polykarp Kusch
+Linus C. Pauling
+Ernest Hemingway
+John F. Enders
+Frederick C. Robbins
+Thomas H. Weller
+George C. Marshall
+Fritz Albert Lipmann
+E. M. Purcell
+Felix Bloch
+Selman A. Waksman
+Edwin M. McMillan
+Glenn Theodore Seaborg
+Ralph J. Bunche
+Philip S. Hench
+Edward C. Kendall
+William Giauque
+William Faulkner
+T. S. Eliot*
+American Friends Service Committee (The Quakers)
+Carl Ferdinand Cori
+Gerty Cori
+Wendell M. Stanley
+James B. Sumner
+John H. Northrop
+Emily G. Balch
+John R. Mott
+Percy W. Bridgman
+Hermann J. Muller
+Cordell Hull
+Isidor Isaac Rabi
+Joseph Erlanger
+Herbert S. Gasser
+Otto Stern
+Edward A. Doisy
+Ernest Lawrence
+Pearl S. Buck
+Clinton Davisson
+Eugene O'Neill
+Carl Anderson
+Harold C. Urey
+George R. Minot
+William P. Murphy
+George H. Whipple
+Thomas H. Morgan
+Irving Langmuir
+Jane Addams
+Nicholas M. Butler
+Sinclair Lewis
+Frank B. Kellogg
+Arthur H. Compton
+Charles G. Dawes
+Robert A. Millikan
+Woodrow Wilson
+Theodore W. Richards
+Elihu Root
+Albert A. Michelson
+Theodore Roosevelt
